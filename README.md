@@ -13,3 +13,4 @@ python3 main.py <filename> <dup>
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 Modificación de Susan Moon - Ejercicio PR
 Modificación de Sunem Gil - Ejercicio Actividad 1
+Modificación de Sunem Gil - 10 de noviembre de 2025
